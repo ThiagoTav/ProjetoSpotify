@@ -29,15 +29,11 @@ Passo a Passo para Rodar o Projeto
 1. Clone o Repositório
 Clone este repositório para sua máquina local usando o comando abaixo:
 
-bash
-Copy
-1
-2
 git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_PROJETO>
 Substitua <URL_DO_REPOSITORIO> e <NOME_DO_PROJETO> pelos valores correspondentes ao seu projeto.
 
-2. Configure o MongoDB
+3. Configure o MongoDB
 Certifique-se de que o MongoDB está instalado e rodando na sua máquina. Por padrão, o MongoDB usa a porta 27017. Se estiver usando uma configuração diferente, ajuste o arquivo connect.js no backend para refletir isso.
 
 Inicie o MongoDB
