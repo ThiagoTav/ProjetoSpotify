@@ -17,6 +17,8 @@ O projeto está organizado da seguinte forma:
 │
 └── api/                     # Pasta com APIs ou outros utilitários
     └── api.js               # Exporta os dados das músicas (songsArray)
+
+
 Pré-requisitos
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
